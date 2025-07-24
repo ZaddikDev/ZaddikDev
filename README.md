@@ -17,7 +17,7 @@
 - **Main languages**: C++, C#
 - **Main technologies**: roblox-ts, godot
 - **Currently learning**: Rust, Vulkan
-- i love building game engines (even if the code for it sucks)
+- i love building game engines (even if the code for them sucks)
 
 ### ❌ I don't like:
 - Bloated frameworks
