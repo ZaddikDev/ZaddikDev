@@ -1,5 +1,6 @@
-## Hi! 👋
+> Profile picture by [**@2BOverTheWorld** on Twitter](https://x.com/2BOverTheWorld)!
 
+## Hi! 👋
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,8 +35,6 @@
 - **CPU**: Ryzen 5 3600X
 - **GPU**: Nvidia GTX 1050 TI
 - **RAM**: 24 GB
-
-
 
 > i use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) btw
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
