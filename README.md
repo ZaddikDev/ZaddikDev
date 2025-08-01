@@ -16,8 +16,8 @@
 - **Self-taught**
 - **IDE**: VS Code (actively trying to switch to neovim)
 - **Main languages**: C++, C#
-- **Main technologies**: roblox-ts, godot
-- **Currently learning**: Rust, Vulkan
+- **Main technologies**: roblox-ts
+- **Currently learning**: Rust, Vulkan, CPU Architecture
 - i love building game engines (even if the code for them sucks)
 
 ### ❌ I don't like:
