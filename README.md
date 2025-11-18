@@ -15,7 +15,7 @@
 ### 🎮 I'm a game developer
 - **Self-taught**
 - **IDE**: VS Code
-- **Main languages**: C++, C#
+- **Fav languages**: C++, Rust
 - **Main technologies**: roblox-ts
 - **Currently learning**: C++, Rust, Vulkan, CPU Architecture
 - i love building game engines (even if the code for them sucks)
@@ -23,6 +23,7 @@
 ### ❌ I don't like:
 - Bloated frameworks
 - Windows 11
+- Java
 
 ### 💼 Work history
 - ***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer
