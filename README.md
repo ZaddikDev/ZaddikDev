@@ -26,7 +26,7 @@
 - Java
 
 ### 💼 Work history
-- ***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer
+- ~~***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer~~ (cancelled / on hold)
 
 
 **Check out my new webpage**: yeah the url is http://127.0.0.1:3000 you should check it out it's so cool!!!111!!!!!11!!!‼️1
