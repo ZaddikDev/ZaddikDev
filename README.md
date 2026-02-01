@@ -16,7 +16,7 @@
 - **Self-taught**
 - **IDE**: VS Code
 - **Fav languages**: C++, Rust
-- **Main technologies**: roblox-ts
+- **Main technologies**: axum, roblox-ts
 - **Currently learning**: C++, Rust, Vulkan, CPU Architecture
 - i love building game engines (even if the code for them sucks)
 
@@ -26,7 +26,7 @@
 - Java
 
 ### 💼 Work history
-- ~~***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer~~ (on hold)
+- ***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer
 - **(unreleased) Rinuko**: Cool gacha Discord bot (built with Rust and Typescript) 
 
 
