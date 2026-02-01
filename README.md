@@ -24,6 +24,8 @@
 - Bloated frameworks
 - Windows 11
 - Java
+- Javascript (specially ran on server)
+- Electron (10th layer of hell)
 
 ### 💼 Work history
 - ***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer
