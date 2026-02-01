@@ -24,7 +24,7 @@
 - Bloated frameworks
 - Windows 11
 - Java
-- Javascript (specially ran on server)
+- Javascript (especially ran on server)
 - Electron (10th layer of hell)
 
 ### 💼 Work history
