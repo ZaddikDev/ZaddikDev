@@ -29,7 +29,7 @@
 
 ### 💼 Work history
 - ***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer
-- **(unreleased) Rinuko**: Cool gacha Discord bot (built with Rust and Typescript) 
+- **(unreleased) Rinuko**: Cool gacha Discord bot (built with Rust and Python) 
 
 
 **Check out my new webpage**: yeah the url is http://127.0.0.1:3000 you should check it out it's so cool!!!111!!!!!11!!!‼️1
