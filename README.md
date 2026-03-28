@@ -21,10 +21,13 @@
 
 ### ❌ I don't like:
 - Bloated frameworks
-- Windows 11
-- Java
 - Javascript (especially ran on server)
+- Windows 11
+- Javascript
+- Java
+- Javascript
 - Electron (10th layer of hell)
+- Javascript
 
 ### 💼 Work history
 - ***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer
