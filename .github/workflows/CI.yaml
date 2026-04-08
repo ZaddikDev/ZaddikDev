@@ -5,13 +5,13 @@ on:
   pull_request:
 
 jobs:
-  check-word:
+  warcrime-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       
       - name: Check for warcrimes
         run: |
-          if ! grep -qwi "i love javascript" "README.md"; then
+          if grep -qwi "i love javascript" "README.md"; then
             exit 1
           fi
