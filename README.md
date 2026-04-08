@@ -30,7 +30,7 @@
 - Javascript
 
 ### 💼 Work history
-- ***(unreleased)* Anime Dungeons** [2025 - current]: Head Developer
+- ***(unreleased)* Anime Dungeons** [2025 - 2026]: Head Developer
 - **(unreleased) Rinuko**: Cool gacha Discord bot (built with Rust and Go) 
 
 
