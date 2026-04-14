@@ -16,8 +16,7 @@
 - **IDE**: VS Code
 - **Fav language**:  Rust
 - **Main technologies**: axum, PostgreSQL
-- **Currently learning**: Rust, Vulkan, SQL, Language parsers
-- i love building game engines (even if the code for them sucks)
+- **Currently learning**: Go, Backend development, Rust *(the rust grind never stops)*
 
 ### ❌ I don't like:
 - Bloated frameworks
@@ -25,18 +24,17 @@
 - Windows 11
 - Javascript
 - Java
-- Javascript
 - Electron (10th layer of hell)
 - Javascript
 
 ### 💼 Work history
-- ***(unreleased)* Anime Dungeons** [2025 - 2026]: Head Developer
-- **(unreleased) Rinuko**: Cool gacha Discord bot (built with Rust and Go) 
+- ***(in development)* Rinuko** [2025 - current]: Gacha Discord bot — Project lead and founder
+- ***(in development)* Anime Dungeons** [2025 - 2026]: Roblox game — Head Developer *(left team halfway through development)*
 
 
 **Check out my new webpage**: yeah the url is http://127.0.0.1:3000 you should check it out it's so cool!!!111!!!!!11!!!‼️1
 
-### 🖥️ System info (it sucks ik)
+### 🖥️ System info (i know it's bad)
 - **OS**: `Arch Linux x64`
 - **CPU**: Ryzen 5 3600X
 - **GPU**: Nvidia GTX 1050 TI
